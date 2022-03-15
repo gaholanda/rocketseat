@@ -30,5 +30,4 @@ Estudando React na trilha **Ignite**.
 ## Capítulo 6
 
 - Estratégias de deploy no React.
-- 
    
