@@ -1,9 +1,12 @@
 import React from "react";
+import { Header } from "./components/Header";
+import { Dashboard } from "./components/Dashboard";
 
 export function App() {
   return (
-    <div>
-      <h1>Hello, App!</h1>
-    </div>
+    <>
+      <Header />
+      <Dashboard />
+    </>
   )
 };
