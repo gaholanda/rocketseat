@@ -7,3 +7,4 @@
 - [miragejs](https://miragejs.com/tutorial/intro/)
 - [react-modal](https://github.com/reactjs/react-modal)
 - [polished](https://polished.js.org/docs/)
+- [axios](https://github.com/axios/axios)
