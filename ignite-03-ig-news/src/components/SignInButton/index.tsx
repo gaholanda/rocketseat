@@ -8,8 +8,6 @@ export function SignInButton() {
 
   const { data: session, status }= useSession();
 
-  console.log(session);
-
   if(status === "authenticated"){
     return (
       <button 
